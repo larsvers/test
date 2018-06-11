@@ -183,7 +183,7 @@ Required. ⟨ _number_ ⟩ specifies the width of the _x axis_ unit in pixel. Ab
 calendar.xUnitWidth(300) 
 ```
 
-<img src="img/xUnitWidth.jpg" width="300">
+<img src="img/xUnitWidth.jpg" width="500">
 
 As a result each _x axis_ tick will be _300px_ wide.
 
@@ -197,7 +197,7 @@ Required. ⟨ _number_ ⟩ specifies the height of the _y axis_ unit in pixel. F
 
 Required. ⟨ _number_ ⟩ specifies how much space of the total _x unit width_ the side card gets allocated. Effectively, it defines the width of the side bar. 
 
-![indent](img/card_indent.jpg)
+<img src="img/card_indent.jpg" width="300">
 
 It is calculated as _indent * xUnitWidth_ and as such is measured as a fraction of the _xUnitWidth_.
 
