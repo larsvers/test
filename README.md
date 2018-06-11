@@ -67,7 +67,7 @@ In code:
   // 2. Create and configure a calendar instance.
   const calendarInstance = zamCalendar.calendar() 
 
-    // General and Dimensions:
+     // General and Dimensions:
     .parent('#container')
     .margin(margin)
     .xUnitWidth(300)
@@ -75,7 +75,7 @@ In code:
     .indent(0.06)
     .ySnapStep(15)
 
-    // Properties:
+     // Properties:
     .xTimeProp('date')
     .xPointProp('slot')
     .yStartProp('time_start')
@@ -89,7 +89,7 @@ In code:
     .eventMainColorMap(typeColorMap)
     .eventSideColorMap(statusColorMap)
 
-    // Other:	
+     // Other:	
     .tooltip('#calendar-tip')
     .dispatcher(dispatch);
 
