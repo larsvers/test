@@ -49,7 +49,7 @@ grunt concat
 ```
 ## Minimal example
 
-The workflow is:
+The workflow:
 
 1. Load data.
 2. Create and configure a calendar instance.
@@ -57,7 +57,7 @@ The workflow is:
 4. Build the calendar by mounting it to a DOM element.
 
 
-In code:
+The workflow in code:
 
 ```
 
