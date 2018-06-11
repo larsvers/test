@@ -183,7 +183,7 @@ Required. ⟨ _number_ ⟩ specifies the width of the _x axis_ unit in pixel. Ab
 calendar.xUnitWidth(300) 
 ```
 
-<img src="img/xUnitWidth.jpg" width="500">
+<img src="img/xUnitWidth.jpg" width="600">
 
 As a result each _x axis_ tick will be _300px_ wide.
 
@@ -191,7 +191,7 @@ As a result each _x axis_ tick will be _300px_ wide.
 
 Required. ⟨ _number_ ⟩ specifies the height of the _y axis_ unit in pixel. For example above example has _hour_ as the _y_ unit and an _yUnitHeight_ of 60. As a result each major _y axis_ tick will be _60px_ wide.
 
-<img src="img/yUnitHeight.jpg" width="500">
+<img src="img/yUnitHeight.jpg" width="600">
 
 <a name="cal-indent" href="#cal-indent">#</a> _calendar_**.indent**(⟨ _number_ ⟩)
 
@@ -292,7 +292,7 @@ Required. ⟨ _Map_ ⟩ specifies the background and the text colors to be used 
 
 Assuming 'color' has two categories: 'R' and 'W', the background and text colours will now be respectively defined by the _typeColorMap_.
 
-<img src="img/card_color.jpg" width="400">
+<img src="img/card_color.jpg" width="500">
 
 <a name="cal-eventSideColorMap" href="#cal-eventSideColorMap">#</a> _calendar_**.eventSideColorMap**(⟨ _Map_ ⟩)
 
