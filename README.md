@@ -183,7 +183,7 @@ Required. ⟨ _number_ ⟩ specifies the width of the _x axis_ unit in pixel. Ab
 calendar.xUnitWidth(300) 
 ```
 
-<img src="img/xUnitWidth.jpg" width="500">
+<img src="img/xUnitWidth.jpg" width="300">
 
 As a result each _x axis_ tick will be _300px_ wide.
 
