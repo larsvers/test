@@ -103,7 +103,7 @@ In code:
 ```
 <sub>_No reason to pass out due to the quantity of configurations. Just copy this whole thing into your app and adapt them with the help of below API reference._</sub>
 
-## Data Requirements for Layout Function
+## Data Requirements for Layout Function
 
  * Data structure: Array of objects
 
@@ -125,7 +125,7 @@ The plugin code exposes the `zamCalendar` object, you can use to produce calenda
 
 <a name="zamCalendar" href="#zamCalendar">#</a> zamCalendar.**calendar**()
 
-Returns a calendar generator called _calendar_ in the following. The _calendar_ can be [configured](#Configuration) using a chained syntax. Once configured you first augment your data with a layout function and then build the calendar with the main build function.
+Returns a calendar generator called _calendar_ in the following. The _calendar_ can be [configured](#configuration) using a chained syntax. Once configured you first augment your data with a layout function and then build the calendar with the main build function.
 
 ## Functions
 
