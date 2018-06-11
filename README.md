@@ -105,9 +105,9 @@ In code:
 
 ## Data Requirements for Layout Function
 
- * Data structure: Array of objects
+ * Data structure: Array of objects.
 
- * Required object properties:
+ * Required object properties and types:
      
     * _date_ property as JS date object
     * _time start_ property as JS date object
