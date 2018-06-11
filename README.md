@@ -197,7 +197,7 @@ Required. ⟨ _number_ ⟩ specifies the height of the _y axis_ unit in pixel. F
 
 Required. ⟨ _number_ ⟩ specifies how much space of the total _x unit width_ the side card gets allocated. Effectively, it defines the width of the side bar. 
 
-<img src="img/card_indent.jpg" width="300">
+<img src="img/card_indent.jpg" width="400">
 
 It is calculated as _indent * xUnitWidth_ and as such is measured as a fraction of the _xUnitWidth_.
 
@@ -253,7 +253,7 @@ Required. ⟨ _string_ ⟩ specifies the name of the property that will be used 
 
 Required. ⟨ _Array_ ⟩ is an array of objects specifying which properties of the original data should be displayed as subtitle information on the main event card.
 
-![subtitle](img/card_subtitle.jpg)
+<img src="img/card_subtitle.jpg" width="400">
 
 The ⟨ _Array_ ⟩ objects need to specify the _variable name_, the _display name_ and the _level_ (_level 1_ for the first row and _level 2_ for the second row of the subtitle). An example of an _eventSubtitle_ array producing above event card would look like so:
 
@@ -292,8 +292,7 @@ Required. ⟨ _Map_ ⟩ specifies the background and the text colors to be used 
 
 Assuming 'color' has two categories: 'R' and 'W', the background and text colours will now be respectively defined by the _typeColorMap_.
 
-![card_color](img/card_color.jpg)
-
+<img src="img/card_color.jpg" width="400">
 
 <a name="cal-eventSideColorMap" href="#cal-eventSideColorMap">#</a> _calendar_**.eventSideColorMap**(⟨ _Map_ ⟩)
 
